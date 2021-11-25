@@ -47,7 +47,7 @@
     "request": "^2.87.0",
     "request-promise-native": "^1.0.5",
     "socket.io": "^2.1.1",
-    "tslint": "^5.11.0",
+    "tslint": "^5.20.1",
     "winston": "^2.3.1"
   },
   "jest": {
