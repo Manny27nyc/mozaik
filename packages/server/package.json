@@ -48,7 +48,7 @@
     "request-promise-native": "^1.0.5",
     "socket.io": "^2.1.1",
     "tslint": "^5.11.0",
-    "winston": "^2.3.1"
+    "winston": "^3.3.3"
   },
   "jest": {
     "testURL": "http://localhost/",
