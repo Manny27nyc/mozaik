@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "dependencies": {
     "date-fns": "^1.29.0",
-    "gatsby": "^1.9.247",
+    "gatsby": "^4.14.0",
     "gatsby-link": "^1.6.40",
     "gatsby-plugin-catch-links": "^1.0.22",
     "gatsby-plugin-react-helmet": "^2.0.10",
