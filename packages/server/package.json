@@ -39,7 +39,7 @@
   },
   "dependencies": {
     "chalk": "^2.4.1",
-    "chokidar": "^1.7.0",
+    "chokidar": "^3.0.0",
     "cors": "^2.8.4",
     "express": "^4.15.3",
     "js-yaml": "^3.9.0",
