@@ -43,9 +43,9 @@
     "cors": "^2.8.4",
     "express": "^4.15.3",
     "js-yaml": "^3.9.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.17",
     "request": "^2.87.0",
-    "request-promise-native": "^1.0.5",
+    "request-promise-native": "^1.0.9",
     "socket.io": "^2.1.1",
     "tslint": "^5.11.0",
     "winston": "^2.3.1"
